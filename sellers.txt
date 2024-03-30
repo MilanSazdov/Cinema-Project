@@ -1,0 +1,3 @@
+milan|sifra123|DR|M|seller
+teo|sifra123|Teodor|Perunicic|seller
+maksim|sifra123|Maksim|Vasic|seller

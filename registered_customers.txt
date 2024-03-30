@@ -1,0 +1,6 @@
+luka|sifra123|Luka|P|registered_customer
+nikola|sifra123|Nikola|Pereski|registered_customer
+mihajlo|sifra123|Mihajlo|Milojevic|registered_customer
+ana|sifra123|Ana|Paroski|registered_customer
+bogdan|sifra123|Bogdan|Ljubo|registered_customer
+bane|sifra123|Branislav|Bane|registered_customer

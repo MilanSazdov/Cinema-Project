@@ -1,0 +1,3 @@
+A1|Huge S|15|15
+A2|Standard|10|10
+A6|Small|5|5

@@ -1,0 +1,1269 @@
+Projection Code: 1111, Term Code: AA, Date: 15.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1112, Term Code: AA, Date: 15.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1114, Term Code: AA, Date: 15.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1115, Term Code: AA, Date: 15.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AA, Date: 15.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | X |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AA, Date: 15.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | X | O | O | O | X |
+| 3 | O | O | O | O | O |
+| 4 | X | O | O | O | X |
+| 5 | X | O | O | O | X |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AA, Date: 15.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AA, Date: 15.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1114, Term Code: AB, Date: 16.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AB, Date: 16.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1117, Term Code: AA, Date: 16.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | X |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AB, Date: 16.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AB, Date: 16.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AB, Date: 16.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | X | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1111, Term Code: AB, Date: 17.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1113, Term Code: AA, Date: 18.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AC, Date: 19.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AC, Date: 19.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | X |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AC, Date: 19.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1111, Term Code: AC, Date: 20.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1112, Term Code: AB, Date: 20.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1115, Term Code: AB, Date: 20.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AC, Date: 20.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | X | O | O | O | O | O | O | X | O | O | O |
+| 2  | O | O | X | O | X | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | X | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | X | X | O | X | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | X | O | O | O | O | O | O | O | O | X | X | O | O |
+| 10 | O | O | O | O | X | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | X | O | O | O |
+| 13 | O | X | X | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | X | O | O | O | X | O | O | O | O | O | O | X | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | X | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AD, Date: 20.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1115, Term Code: AC, Date: 21.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AD, Date: 21.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AE, Date: 21.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1111, Term Code: AD, Date: 22.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1112, Term Code: AC, Date: 22.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1114, Term Code: AC, Date: 22.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1115, Term Code: AD, Date: 22.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AD, Date: 22.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AE, Date: 22.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AD, Date: 22.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AF, Date: 22.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | X | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | X | O | O | O | X | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1114, Term Code: AD, Date: 23.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AE, Date: 23.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1117, Term Code: AB, Date: 23.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AF, Date: 23.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AE, Date: 23.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AG, Date: 23.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1111, Term Code: AE, Date: 24.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1113, Term Code: AB, Date: 25.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AF, Date: 26.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AG, Date: 26.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AH, Date: 26.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | X | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | X | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | X | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | X | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | X | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | X | O | X | O | O | O | O | O | O | X | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | X | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | X | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1111, Term Code: AF, Date: 27.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1112, Term Code: AD, Date: 27.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1115, Term Code: AE, Date: 27.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AF, Date: 27.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AI, Date: 27.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1115, Term Code: AF, Date: 28.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AH, Date: 28.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | X | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | X |
+| 5 | X | X | O | X | X |
++---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AJ, Date: 28.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1111, Term Code: AG, Date: 29.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1112, Term Code: AE, Date: 29.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1114, Term Code: AE, Date: 29.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1115, Term Code: AG, Date: 29.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AG, Date: 29.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AI, Date: 29.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AG, Date: 29.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AK, Date: 29.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1114, Term Code: AF, Date: 30.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1116, Term Code: AH, Date: 30.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1117, Term Code: AC, Date: 30.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1118, Term Code: AJ, Date: 30.01.2024
++---+---+---+---+---+---+
+|   | A | B | C | D | E |
++---+---+---+---+---+---+
+| 1 | O | O | O | O | O |
+| 2 | O | O | O | O | O |
+| 3 | O | O | O | O | O |
+| 4 | O | O | O | O | O |
+| 5 | O | O | O | O | O |
++---+---+---+---+---+---+
+
+Projection Code: 1119, Term Code: AH, Date: 30.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1120, Term Code: AL, Date: 30.01.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AA, Date: 22.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AB, Date: 29.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AC, Date: 05.02.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AD, Date: 23.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AE, Date: 30.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AF, Date: 06.02.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AG, Date: 21.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AH, Date: 28.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1121, Term Code: AI, Date: 04.02.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1111, Term Code: AH, Date: 31.01.2024
++----+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J |
++----+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+
+
+Projection Code: 1113, Term Code: AC, Date: 01.02.2024
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|    | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+| 1  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 2  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 3  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 4  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 5  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 6  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 7  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 8  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 9  | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 10 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 12 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 13 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 14 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| 15 | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
++----+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+
